@@ -1,9 +1,9 @@
 # BlackJack-game
 Designed a GUI interface resembling the Blackjack game, using mainly Java, with a team of 5 people
 
+
 # Members: 
 Chidvi Doddi, Aryan Kumar, Western Han, Frankie Luu, Shravani Manda 
-
 
 # User Manual:
 The game will start you with $10,000 and you need to make a bet on the next round against the computer. Each round starts with you getting two cards and the computer getting two cards. The goal is to get the sum of your cards closest to 21 without going over. You can ask for another card if your total is under 21 by typing H(hit/add another card to hand) or S( to stay). If the sum of your cards is closer to 21 (than the sum of the computer’s cards), your bet is added to your total. If you don’t get closer or go over 21, then the bet is subtracted.
@@ -79,7 +79,7 @@ printhand(showhand), (player class)
 
 This method prints out the user hand or prints out hidden based on the boolean passed in for showhand. We use this when we want to show the use what cards he/she has so that they can decide if they want to hit or stay.
 
-Overall Testing Report:
+# Overall Testing Report:
 The overall idea of testing our code was to use the constructors and methods to see if the game behaved the way we wanted it to be. This way we can add on to any of the methods if something goes wrong and enhance the game to do things at the specific time. 
 
 
