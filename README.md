@@ -1,4 +1,4 @@
-# BlackJack-game
+# Blackjack-game
 Designed a GUI interface resembling the Blackjack game, using mainly Java, with a team of 5 people
 
 
